@@ -1,6 +1,7 @@
 # Line-Following-Robot-CSBP476-project-Group-5-
 
-![Robot Image](https://www.keyestudio.com/image/cache/catalog/KS0559/KS0559%20(1)-750x750.jpg)
+![IMG_1938](https://github.com/user-attachments/assets/1c8a36b2-47f9-45e7-be16-c3c5d5419dbe)
+
 
 ## Project Overview
 
@@ -12,16 +13,14 @@ The project also includes a phased control system using the `check` variable to 
 
 ## Contents of this Repository
 
-1. `main.ino`: Arduino source code for the robot logic and control.
+1. `Phase2_Track.ino`: Arduino source code for the robot logic and control.
 2. `flowchart.png`: A visual representation of the program logic.
-3. `demo_video.mp4`: Demo of the robot in action.
-4. `YouTube Link`: Watch it in action here: [YouTube Demo](https://youtu.be/YOUR_VIDEO_LINK)
+3. `YouTube Link`: Watch it in action here: https://youtube.com/shorts/qs54Gwclo1M?si=-gnwLul96XwYGdsv
 
 ---
 
 ## Flowchart
-
-![Flowchart](flowchart.png)
+![Flowchart](https://github.com/user-attachments/assets/d9c31942-6058-48e1-b516-e01159a8631f)
 
 ### Flowchart Description:
 
@@ -61,13 +60,16 @@ The project also includes a phased control system using the `check` variable to 
 - Motor Driver Shield
 - Power Supply (batteries)
 - Jumper Wires
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/66501bb2-365c-4b5c-956d-a198e33cb18a" />
 
+- Kit Link: https://www.amazon.ae/KEYESTUDIO-Programmable-Robotics-Electronics-Educational/dp/B0BCQ9TGY5/ref=asc_df_B0BCQ9TGY5?mcid=4f07f29b9dde399299cab133cef5a4bd&tag=googleshopp09-21&linkCode=df0&hvadid=719122129168&hvpos=&hvnetw=g&hvrand=12429762043085446816&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9215881&hvtargid=pla-1965034975616&psc=1&gad_source=1
 ---
 
 ## Team Members
 
 - Mohammed Alnuaimi
-- [Add team members here if applicable]
+- Ahmed Alsenaani
+- Ahmed Almasiyuli
 
 ---
 
@@ -77,11 +79,5 @@ The project also includes a phased control system using the `check` variable to 
 2. Upload `main.ino` to the Arduino Uno using the Arduino IDE.
 3. Place the robot on a black-line track.
 4. Turn on the power and observe the robot follow the track autonomously.
-
----
-
-## License
-
-This project is for educational use. You are free to modify and distribute it under the MIT License.
 
 

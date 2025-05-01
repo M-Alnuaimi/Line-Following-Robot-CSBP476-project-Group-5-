@@ -76,7 +76,7 @@ The project also includes a phased control system using the `check` variable to 
 ## How to Run
 
 1. Connect the robot to your computer via USB.
-2. Upload `main.ino` to the Arduino Uno using the Arduino IDE.
+2. Upload `Phase2_Track.ino` to the Arduino Uno using the Arduino IDE.
 3. Place the robot on a black-line track.
 4. Turn on the power and observe the robot follow the track autonomously.
 
